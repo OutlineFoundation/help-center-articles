@@ -8,7 +8,7 @@ Anda dapat mencoba Outline di sistem operasi apa pun. Berikut ini adalah sistem 
 | **Sistem operasi** | **Versi minimum** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 10.15 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

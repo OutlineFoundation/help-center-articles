@@ -8,7 +8,7 @@ Du er velkommen til at afprøve Outline på ethvert operativsystem. Her kan du s
 | **Operativsystem** | **Minimumsversion** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

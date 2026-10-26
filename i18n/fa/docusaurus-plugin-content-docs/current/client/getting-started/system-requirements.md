@@ -8,7 +8,7 @@ sidebar_label: الزامات سیستم برای اجرای Outline Client چی
 | **سیستم‌عامل** | **پایین‌ترین نسخه** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | سیستم‌عامل Mac | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

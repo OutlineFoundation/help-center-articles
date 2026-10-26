@@ -8,7 +8,7 @@ Outline fungerer på de fleste operativsystemer. Her ser du de laveste tillatte 
 | **Operativsystem** | **Laveste tillatte versjon** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | MacOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

@@ -8,7 +8,7 @@ Nous vous invitons à essayer Outline sur n'importe quel système d'exploitation
 | **Système d'exploitation** | **Version minimale** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

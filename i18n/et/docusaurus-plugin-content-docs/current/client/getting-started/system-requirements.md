@@ -8,7 +8,7 @@ Teil on võimalik proovida Outline'i mis tahes operatsioonisüsteemis. Operatsio
 | **Operatsioonisüsteem** | **Miinimumversioon** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

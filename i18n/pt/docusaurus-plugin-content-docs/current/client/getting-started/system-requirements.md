@@ -8,7 +8,7 @@ Pode experimentar o Outline em qualquer sistema operativo. As versões mínimas 
 | **Sistema operativo** | **Versão mínima** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

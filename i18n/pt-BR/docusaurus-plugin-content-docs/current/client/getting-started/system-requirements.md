@@ -8,7 +8,7 @@ sidebar_label: "Quais são os requisitos do sistema para executar o app cliente 
 | **Sistema operacional** | **Versão mínima** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

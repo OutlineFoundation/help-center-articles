@@ -8,7 +8,7 @@ Je i/e mirëpritur të provosh Outline në çdo sistem operativ. Në vijim gjend
 | **Sistemi operativ** | **Versioni minimal** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |
