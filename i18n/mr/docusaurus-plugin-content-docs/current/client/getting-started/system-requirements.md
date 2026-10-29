@@ -8,7 +8,7 @@ sidebar_label: "Outline क्लायंट रन करण्यासाठ
 | **ऑपरेटिंग सिस्टीम** | **किमान आवृत्ती** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

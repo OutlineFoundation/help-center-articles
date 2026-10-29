@@ -8,7 +8,7 @@ sidebar_label: 运行 Outline 客户端对系统有何要求？
 | **操作系统** | **最低版本** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

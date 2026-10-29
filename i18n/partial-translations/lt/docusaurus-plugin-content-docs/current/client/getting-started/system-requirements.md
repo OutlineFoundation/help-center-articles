@@ -8,7 +8,7 @@ Esate kviečiami išbandyti „Outline“ bet kurioje operacinėje sistemoje. To
 | **Operacinė sistema** | **Minimali versija** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | 20.04 versijos „Ubuntu“ |

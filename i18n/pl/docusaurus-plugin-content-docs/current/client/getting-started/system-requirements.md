@@ -8,7 +8,7 @@ Możesz spróbować uruchomić Outline w dowolnym systemie operacyjnym. Oto list
 | **System operacyjny** | **Wersja minimalna** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

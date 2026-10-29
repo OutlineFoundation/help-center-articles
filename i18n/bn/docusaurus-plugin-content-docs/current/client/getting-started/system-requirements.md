@@ -8,7 +8,7 @@ sidebar_label: "Outline Client চালানোর জন্য সিস্�
 | **অপারেটিং সিস্টেম** | **সর্বনিম্ন ভার্সন** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

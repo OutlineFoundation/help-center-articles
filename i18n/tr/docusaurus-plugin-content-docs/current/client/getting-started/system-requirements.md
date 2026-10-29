@@ -8,7 +8,7 @@ Outline'ı tüm işletim sistemlerinde deneyebilirsiniz. Minimum işletim sistem
 | **İşletim sistemi** | **Minimum sürüm** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | MacOS | 10.15 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

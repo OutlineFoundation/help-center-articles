@@ -8,7 +8,7 @@ Slobodno možete isprobavati Outline na bilo kojem operativnom sistemu. U nastav
 | **Operativni sistem** | **Najniža verzija** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |

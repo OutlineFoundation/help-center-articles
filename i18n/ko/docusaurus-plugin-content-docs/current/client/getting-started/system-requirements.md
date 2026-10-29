@@ -8,7 +8,7 @@ sidebar_label: "Outline 클라이언트를 실행하기 위한 시스템 요구�
 | **운영체제** | **최소 버전** |
 | --- | --- |
 | Android | 10 |
-| iOS | 15.5 |
+| iOS | 16.6 |
 | macOS | 12.0 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |
